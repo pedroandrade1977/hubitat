@@ -1,0 +1,19 @@
+{
+  "author": "Pedro Andrade",
+  "gitHubUrl": "https://https://github.com/pedroandrade1977",
+  "payPalUrl": "https://www.paypal.com/donate/?hosted_button_id=ANRFF98YV4ZP4",
+  "packages": [
+    {
+      "id": "19043f66-ad34-40e6-bbdb-28849b2991e3",
+      "name": "Hubitat Linktap MQTT Driver",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/pedroandrade1977/Hubitat-LinktapMQTT/main/packageManifest.json",
+      "description": "Hubitat driver for smart watering devices from Linktap with local network integration through the use of a MQTT broker",
+      "tags": [
+        "Irrigation",
+		"Water",
+		"Valves"
+      ]
+    }
+  ]
+}
